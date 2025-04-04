@@ -1,9 +1,9 @@
 Hi, I'm Nitish Kumar Sharma!
-💻 Full Stack Developer | MERN Stack | Passionate About Web Development
+\n💻 Full Stack Developer | MERN Stack | Passionate About Web Development
+
 
 🔗 Connect With Me
-🌐 Portfolio: (You can replace this with your actual portfolio URL)
-🔗 nitish sharma
+🔗 LinkedIn: Nitish Kumar Sharma
 
 🔧 Tech Stack
 Frontend:
