@@ -1,22 +1,43 @@
-#  Hi, I'm Nitish Kumar Sharma!  
+Hi, I'm Nitish Kumar Sharma!
+💻 Full Stack Developer | MERN Stack | Passionate About Web Development
 
-💻 Full Stack Developer | MERN Stack | Passionate about Web Development  
+🔗 Connect With Me
+🌐 Portfolio: (You can replace this with your actual portfolio URL)
+🔗 nitish sharma
 
- **Tech Stack:**  
-- **Frontend:** React.js, Tailwind CSS, Bootstrap, MDBootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+🔧 Tech Stack
+Frontend:
 
- About Me  
-I am a passionate **Full Stack Developer** specializing in **MERN Stack** and modern UI frameworks like **Tailwind CSS & Bootstrap**. I love building scalable and responsive web applications.  
+HTML, CSS, JavaScript
 
- Skills  
-✔️ Full Stack Web Development  
-✔️ Responsive UI Design (Tailwind, Bootstrap, MDBootstrap)  
-✔️ REST APIs & Database Management  
+React.js (Vite)
 
- Connect With Me  
-[🔗 LinkedIn](your-linkedin-url) | [🌐 Portfolio](your-portfolio-url)  
+Tailwind CSS, Bootstrap, MUI, MDBootstrap, ShadCN/UI
 
----
-🚀 **"Building Scalable & Modern Web Applications!"**  
+Redux for state management
+
+Backend:
+
+Node.js, Express.js
+
+Database:
+
+MongoDB
+
+Tools:
+
+Git & GitHub
+
+VS Code
+
+👨‍💻 About Me
+I’m a passionate Full Stack Web Developer with expertise in the MERN Stack and modern UI libraries. I love building responsive, scalable, and high-performance web applications with clean, maintainable code. I focus on delivering smooth user experiences through elegant frontend design and robust backend APIs.
+
+✅ Skills
+✔️ Full Stack Web Development (MERN Stack)
+✔️ Building REST APIs & Database Management
+✔️ Responsive UI Design (Tailwind, Bootstrap, MUI, ShadCN/UI)
+✔️ Git & GitHub for Version Control
+✔️ React State Management with Redux
+
+
