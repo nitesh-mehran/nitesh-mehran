@@ -1,31 +1,22 @@
-## Hi there 👋
+#  Hi, I'm Nitish Kumar Sharma!  
 
-<!--
-**nitesh-mehran/nitesh-mehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN Stack | Passionate about Web Development  
 
-Here are some ideas to get you started:
-👋 Hi, I'm [Your Name]  
-💻 MERN Stack Developer | Passionate about Web Development  
-
-🚀 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, MUI, Bootstrap, MDBootstrap  
+ **Tech Stack:**  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap, MDBootstrap  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 
-📌 **What I Do:**  
-- Build scalable & responsive web applications  
-- Create modern UI/UX with Tailwind CSS & MUI  
-- Develop full-stack applications using the MERN stack  
+ About Me  
+I am a passionate **Full Stack Developer** specializing in **MERN Stack** and modern UI frameworks like **Tailwind CSS & Bootstrap**. I love building scalable and responsive web applications.  
 
-📫 **Let's Connect:**  
-[🔗 LinkedIn](your-linkedin-url) | [🐦 Twitter](your-twitter-url) | [🌐 Portfolio](your-portfolio-url)  
+ Skills  
+✔️ Full Stack Web Development  
+✔️ Responsive UI Design (Tailwind, Bootstrap, MDBootstrap)  
+✔️ REST APIs & Database Management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Connect With Me  
+[🔗 LinkedIn](your-linkedin-url) | [🌐 Portfolio](your-portfolio-url)  
+
+---
+🚀 **"Building Scalable & Modern Web Applications!"**  
