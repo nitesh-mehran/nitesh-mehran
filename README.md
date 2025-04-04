@@ -1,5 +1,5 @@
 Hi, I'm Nitish Kumar Sharma!
-\n💻 Full Stack Developer | MERN Stack | Passionate About Web Development
+💻 Full Stack Developer | MERN Stack | Passionate About Web Development
 
 
 🔗 Connect With Me
