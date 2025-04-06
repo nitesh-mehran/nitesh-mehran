@@ -1,43 +1,79 @@
-Hi, I'm Nitish Kumar Sharma!
-💻 Full Stack Developer | MERN Stack | Passionate About Web Development
+# 👨‍💻 NITISH KUMAR SHARMA
 
+**Full Stack Developer | JavaScript Enthusiast | MERN Stack Developer**
 
-🔗 Connect With Me
-🔗 LinkedIn: Nitish Kumar Sharma
+- **GitHub:** [nitesh-mehran](https://github.com/nitesh-mehran)  
+- **LinkedIn:** [Nitish Kumar Sharma](https://www.linkedin.com/in/niteshmehran)  
+- **Email:** [nkmehran2003@gmail.com](mailto:nkmehran2003@gmail.com)
 
-🔧 Tech Stack
-Frontend:
+---
 
-HTML, CSS, JavaScript
+## 👋 Hey there!
 
-React.js (Vite)
+I'm **Nitish Kumar Sharma**, a passionate and self-driven Full Stack Developer specializing in modern web technologies. From building sleek frontend interfaces to crafting powerful backend APIs, I love turning ideas into reality through code.
 
-Tailwind CSS, Bootstrap, MUI, MDBootstrap, ShadCN/UI
+---
 
-Redux for state management
+## 🚀 Frontend Skills
 
-Backend:
+- **Languages & Frameworks**
+  - HTML5, CSS3, JavaScript (ES6+)
+  - React.js
 
-Node.js, Express.js
+- **State Management**
+  - Redux (including Redux Toolkit)
 
-Database:
+- **Styling & UI Libraries**
+  - Tailwind CSS  
+  - Bootstrap  
+  - Material UI (MUI)  
+  - Shadcn UI  
+  - MDBootstrap
 
-MongoDB
+---
 
-Tools:
+## 💻 Backend Skills
 
-Git & GitHub
+- **Technologies & Frameworks**
+  - Node.js  
+  - Express.js
 
-VS Code
+- **Database**
+  - MongoDB
 
-👨‍💻 About Me
-I’m a passionate Full Stack Web Developer with expertise in the MERN Stack and modern UI libraries. I love building responsive, scalable, and high-performance web applications with clean, maintainable code. I focus on delivering smooth user experiences through elegant frontend design and robust backend APIs.
+---
 
-✅ Skills
-✔️ Full Stack Web Development (MERN Stack)
-✔️ Building REST APIs & Database Management
-✔️ Responsive UI Design (Tailwind, Bootstrap, MUI, ShadCN/UI)
-✔️ Git & GitHub for Version Control
-✔️ React State Management with Redux
+## 🛠️ Tools & Platforms
+
+- Visual Studio Code (VS Code)  
+- Git & GitHub  
+- Postman  
+- Chrome DevTools  
+- LinkedIn: [niteshmehran](https://www.linkedin.com/in/niteshmehran)  
+- GitHub: [nitesh-mehran](https://github.com/nitesh-mehran)
+
+---
+
+## 🌱 Currently Exploring
+
+I'm always eager to learn and experiment with new tools and technologies. Right now, I’m diving deeper into:
+
+- Full-stack project architecture  
+- Backend optimization  
+- Advanced React & Redux patterns
+
+---
+
+## 📬 Let’s Connect
+
+Whether you have a project in mind, want to collaborate, or just want to talk tech—feel free to reach out!
+
+- 📧 Email: [nkmehran2003@gmail.com](mailto:nkmehran2003@gmail.com)  
+- 🔗 LinkedIn: [www.linkedin.com/in/niteshmehran](https://www.linkedin.com/in/niteshmehran)
+
+---
+
+**Thanks for stopping by! Let’s build something awesome together. 🚀**
+
 
 
